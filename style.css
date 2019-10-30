@@ -16,7 +16,13 @@ body {
 }
 
 .box-profile {
-    
+    width: 300px;
+    height: 500px;
+    border-style: solid;
+    display: inline-block;
+    position: relative;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 #aboutme {
@@ -28,6 +34,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
 hr {
     width: 50%;
     margin-top: 50px;
